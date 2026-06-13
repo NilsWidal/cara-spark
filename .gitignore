@@ -5,6 +5,10 @@ cara-spark-kiosk-build-guide.md
 *build-guide*.md
 research/
 
+# Internal build-status dashboard (open locally; publish later if you want a public progress page)
+status.html
+status.json
+
 # --- Took task graph: local-only for now (carries internal refs: Linear IDs,
 #     prod-isolation specifics). Un-ignore when you want a sanitized public roadmap. ---
 .took/
